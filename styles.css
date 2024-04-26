@@ -155,6 +155,7 @@ input:hover {
     input {
         display: flex;
     }
+
     .enviar {
         display: flex;
         align-items: center;
